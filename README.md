@@ -1,1 +1,1 @@
-# neetcode150
+Practicing [Neetcode 150 questions](https://neetcode.io/practice).
