@@ -1,5 +1,5 @@
 ### Question
-- [Link to question.](https://leetcode.com/problems/balanced-binary-tree/description/)
+- [Link to question.](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ### Thoughts
 - Input and output: 
