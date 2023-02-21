@@ -9,7 +9,7 @@
 - learn from the previous problem to find the diameter, at each level of recursion, remember the maximum diff to see if that goes beyond 1.
 
 ### Pseudocode
-- Keep a global vaiable res = 0
+- Keep a global vaiable diff = 0
 - At each node:
     - Recursively do a dfs at left node, calculate the height of that node.
     - Recursively do a dfs at right node, calculate the height of that node.
