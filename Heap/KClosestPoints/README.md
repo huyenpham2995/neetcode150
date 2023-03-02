@@ -17,4 +17,4 @@
 
 ### BigO
 - Building min heap: O(NlogN), but if we know all the element from the beginning it should be O(N).
-- Popping k times O(K).
+- Popping k times O(KlogN).
