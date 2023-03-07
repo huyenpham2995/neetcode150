@@ -1,5 +1,5 @@
 ### Question
-- [Link to question.](https://leetcode.com/problems/subsets/description/)
+- [Link to question.](https://leetcode.com/problems/subsets-ii/description/)
 
 ### Thoughts
 - Input and output:
